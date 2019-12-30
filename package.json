@@ -1,0 +1,19 @@
+{
+  "name": "dockerfiles",
+  "version": "0.1.0",
+  "description": "Some dockerfiles for sammler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammler/dockerfiles.git"
+  },
+  "author": "Stefan Walther",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sammler/dockerfiles/issues"
+  },
+  "homepage": "https://github.com/sammler/dockerfiles#readme"
+}
